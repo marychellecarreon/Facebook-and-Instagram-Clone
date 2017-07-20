@@ -4,11 +4,8 @@
 
 ### Screenshot
 
-![screen shot 2017-07-18 at 9 02 28 pm](https://user-images.githubusercontent.com/26729817/28318227-9a1ea320-6bfc-11e7-8e5b-6932f716657a.png)
+![screen shot 2017-07-20 at 11 49 00 am](https://user-images.githubusercontent.com/26729817/28399815-f2c4b384-6d41-11e7-88c0-4b92a2c51b21.png)
 
-
-
-![screen shot 2017-07-18 at 9 02 55 pm](https://user-images.githubusercontent.com/26729817/28318235-a25b6492-6bfc-11e7-9dc2-4971f71a8ae7.png)
-
+![screen shot 2017-07-20 at 11 48 32 am](https://user-images.githubusercontent.com/26729817/28399820-fadfcdd8-6d41-11e7-8f40-3bf9cd014107.png)
 
 
